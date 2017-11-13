@@ -1,4 +1,4 @@
-# ionic-firebase-authentication
+# ionic-firebase-social-authentication
 ### A sample social authentication for Ionic3 using Firebase
 
 Login to your apps using Facebook and Google account.
